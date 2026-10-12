@@ -977,6 +977,7 @@ These providers offer apps and services filled with data trackers. Also, most of
  	- [dSheets](https://sheets.fileverse.io): decentralized alternative to Excel and Google Sheets.
 - [Grist](https://www.getgrist.com) - Self-hostable spreadsheet and database hybrid for organizing data, as an open source Airtable alternative. Apache-2.0 licensed.
 
+- [VoilàPDF](https://voilapdf.com/en/) - Browser-only PDF toolkit replacing iLovePDF and Smallpdf: edit the text already inside a PDF, convert, merge, OCR scans. The site has no server code, so no document is ever uploaded. AGPL-3.0, self-hostable as static files ([source](https://github.com/dilmseo/editeur-pdf)).
 [Back to top 🔝](#contents)
 
 ## Online Phone Providers
